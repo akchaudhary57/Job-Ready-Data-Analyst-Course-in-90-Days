@@ -64,6 +64,42 @@ join address as a
 on c.address_id = a.address_id
 where a.district = 'Nagasaki'
 
+-- Self join  ( Try in PostgreSQL)
+
+create table Employee
+(
+Employeeid int,
+Name varchar(200),
+Supervisorid int
+);
+
+insert into Employee(Employeeid,Name,Supervisorid) values ('1','John', null);
+insert into Employee(Employeeid,Name,Supervisorid) values ('2','Jeff','1');
+insert into Employee(Employeeid,Name,Supervisorid) values ('3','Rob','1');
+insert into Employee(Employeeid,Name,Supervisorid) values ('4','Kam','3');
+
+select * from Employee
+
+select distinct f.name as EmployeeName,e.name as SupervisorName from Employee e 
+join Employee f 
+on e.employeeid = f.supervisorid
+
+-- Cross join  ( Try in PostgreSQL)
+
+truncate table Employee;
+
+insert into Employee(Employeeid,Name,Supervisorid) values ('1','John', null);
+insert into Employee(Employeeid,Name,Supervisorid) values ('2','Jeff','1');
+insert into Employee(Employeeid,Name,Supervisorid) values ('2','Rob','1');
+insert into Employee(Employeeid,Name,Supervisorid) values ('4','Kam','2');
+insert into Employee(Employeeid,Name,Supervisorid) values ('5','James','2');
+
+
+select distinct f.name as EmployeeName,e.name as SupervisorName from Employee e 
+join Employee f 
+on e.employeeid = f.supervisorid
+
+
 -- Union 
 
 SELECT  'Address' as adl,last_update FROM `address`
