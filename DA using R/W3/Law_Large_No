@@ -1,0 +1,7 @@
+n<-100
+x <- data.frame(observation = sample(1:2,n,replace = TRUE))
+head <- sum(x$observation == 1)
+tail <- sum(x$observation == 2)
+Pofhead <- head/(head+tail)
+PofTail <- tail/(head+tail)
+
