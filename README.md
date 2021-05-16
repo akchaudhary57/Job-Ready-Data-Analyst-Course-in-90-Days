@@ -11,7 +11,7 @@ It contains material required to become a Data Analyst.
 
 ![Superstore Sales KPI dashboard](https://github.com/akchaudhary57/Data-Analyst-Course/blob/main/image/SampleSuperstore_KPI.gif)
 
-##### Modern Superstore sales dashboard
+##### Modern Superstore sales dashboard (location:- [Modern Tableau Sales Dashboard](https://github.com/akchaudhary57/Data-Analyst-Course/tree/main/Tableau%20for%20Visualization/W8))
 
 ![Modern Sales Dashboard](https://github.com/akchaudhary57/Data-Analyst-Course/blob/main/image/Modern%20Dashboard.gif)
 
