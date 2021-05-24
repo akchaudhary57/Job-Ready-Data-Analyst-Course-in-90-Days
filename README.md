@@ -15,5 +15,6 @@ It contains material required to become a Data Analyst.
 
 ![Modern Sales Dashboard](https://github.com/akchaudhary57/Data-Analyst-Course/blob/main/image/Modern%20Dashboard.gif)
 
+![COVID 19 Data Analysis in Python](https://github.com/akchaudhary57/Job-Ready-Data-Analyst-Course-in-70-Days/blob/main/image/COVID%2019%20Data%20Analysis-I-Copy2%20-%20Jupyter%20Notebook%20(1).gif)
 
 
