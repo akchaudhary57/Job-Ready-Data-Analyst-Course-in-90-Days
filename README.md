@@ -7,11 +7,11 @@ It contains material required to become a Data Analyst.
 
 ![IMDb Movie data](https://github.com/akchaudhary57/Data-Analyst-Course/blob/main/image/IMDb%20Movie%20Data.gif)
 
-#### Superstore sales KPI dashboard (location:- [Superstore Sales KPI dashboard in Tableau](https://github.com/akchaudhary57/Data-Analyst-Course/tree/main/Tableau%20for%20Visualization/W4))
+#### Superstore sales KPI dashboard in Tableau(location:- [Superstore Sales KPI dashboard in Tableau](https://github.com/akchaudhary57/Data-Analyst-Course/tree/main/Tableau%20for%20Visualization/W4))
 
 ![Superstore Sales KPI dashboard](https://github.com/akchaudhary57/Data-Analyst-Course/blob/main/image/SampleSuperstore_KPI.gif)
 
-#### Modern Superstore sales dashboard (location:- [Modern Tableau Sales Dashboard](https://github.com/akchaudhary57/Data-Analyst-Course/tree/main/Tableau%20for%20Visualization/W8))
+#### Modern Superstore sales dashboard in Tableau(location:- [Modern Tableau Sales Dashboard](https://github.com/akchaudhary57/Data-Analyst-Course/tree/main/Tableau%20for%20Visualization/W8))
 
 ![Modern Sales Dashboard](https://github.com/akchaudhary57/Data-Analyst-Course/blob/main/image/Modern%20Dashboard.gif)
 
