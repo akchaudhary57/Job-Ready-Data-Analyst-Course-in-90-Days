@@ -1,7 +1,7 @@
 # Job Ready Data Analyst Course in 70 Days
 It contains material required to become a Data Analyst.
 
-### Syllabus:- (location:- [Syllabus](https://github.com/akchaudhary57/Data-Analyst-Course/blob/main/Syllabus/Learn%20Data%20Analytics.pdf)
+## [Syllabus](https://github.com/akchaudhary57/Data-Analyst-Course/blob/main/Syllabus/Learn%20Data%20Analytics.pdf)
 
 ![Syllabus](https://github.com/akchaudhary57/Job-Ready-Data-Analyst-Course-in-70-Days/blob/main/image/Job-Ready-Data-Analyst-Course-in-70-Days_Learn%20Data%20Analytics.pdf%20at%20main%20%C2%B7%20akchaudhary57_Job-Ready-Data-Analyst-Course-in-70-Days%20%C2%B7%20GitHub%20(1).gif)
 
