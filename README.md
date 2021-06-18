@@ -5,6 +5,8 @@ It contains material required to become a Data Analyst.
 
 ![Syllabus](https://github.com/akchaudhary57/Job-Ready-Data-Analyst-Course-in-70-Days/blob/main/image/Job-Ready-Data-Analyst-Course-in-70-Days_Learn%20Data%20Analytics.pdf%20at%20main%20%C2%B7%20akchaudhary57_Job-Ready-Data-Analyst-Course-in-70-Days%20%C2%B7%20GitHub%20(1).gif)
 
+# What you will learn?
+
 #### IMDb Movie data set dashboard in Excel (location:- [IMDb_Movie_Database_PivotCharts.xlsx](https://github.com/akchaudhary57/Data-Analyst-Course/tree/main/DA%20using%20Excel/W4))
 
 ![IMDb Movie data](https://github.com/akchaudhary57/Data-Analyst-Course/blob/main/image/IMDb%20Movie%20Data.gif)
